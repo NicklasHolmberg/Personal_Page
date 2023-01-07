@@ -23,4 +23,4 @@ Hello there! I'm Nicklas, an applied math enthusiast with an interest for comput
 
 ## Let's Connect!
 
-Whether you're a fellow math enthusiast, a potential collaborator, or just here for the coffee talk, I'd love to connect with you. Dive into my projects, share your thoughts, or suggest a new coffee blend. Cheers! My resume and contact details can be found [here](https://github.com/NicklasHolmberg/Personal_Page/Resume_Nicklas_Holmberg.pdf)
+Whether you're a fellow math enthusiast, a potential collaborator, or just here for the coffee talk, I'd love to connect with you. Dive into my projects, share your thoughts, or suggest a new coffee blend. Cheers! My resume and contact details can be found [here](https://github.com/NicklasHolmberg/Personal_Page/blob/main/Resume_Nicklas_Holmberg.pdf)

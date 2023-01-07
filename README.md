@@ -9,7 +9,7 @@ Hello there! I'm Nicklas, an applied math enthusiast with an interest for comput
 
 ## Some of My Recent Projects
 
-- **CVNNs:** Explored the efficacy of various complex-valued activation functions in CVNNs, aiming to enhance data analysis in complex-valued data sets, including signal processing & bioinformatics. Check out my findings and experiments on [my GitHub](https://github.com/NicklasHolmberg/ComplexValuedNeuralNetworks).
+- **CVNNs:** Explored the efficacy of various complex-valued activation functions in CVNNs, aiming to enhance data analysis in complex-valued data sets, including signal processing & bioinformatics. Check out my findings and experiments on [my CVNN GitHub Repo](https://github.com/NicklasHolmberg/ComplexValuedNeuralNetworks).
 - **Financial Modeling:** Developed a serverless AWS-based workflow for real-time stock price monitoring, demonstrating the power of cloud technology in financial analysis.
 
 ## Beyond the Code
